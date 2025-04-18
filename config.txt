@@ -1,0 +1,1 @@
+lockpath=C:\Program Files\Common Files\unban123_lock
